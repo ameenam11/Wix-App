@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "b4dd6944-7eb2-4624-a0e3-f82b6492bc24",
+  "projectId": "buddy"
+}
